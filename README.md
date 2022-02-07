@@ -9,7 +9,7 @@
 - ☕: **Barista**
 <br/><br/>
 
-## Skills (learning)
+### Skills (learning)
 - 📰: **Front-end**: React.js, bootstrap, SASS
 - ⚙️: **Back-end**: Node.js, Express.js, MySQL, Oracle, MongoDB
 - ☁️: **Cloud**: AWS
