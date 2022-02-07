@@ -15,3 +15,9 @@
 - ☁️: **Cloud**: AWS
 - 🔖: **General Purpose**: JavaScript
 - 🤔: **Others**: Blockchain
+
+### Expreience
+- DBA – Republic of Korea Army Headquarters (December 2019 ~ June 2021)
+
+### Education
+- Software, Gachon University, Seongnam, Korea (2019 ~ )
