@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**JinuCheon/JinuCheon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="Center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />  It's me, Jinu Cheon <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 
-Here are some ideas to get you started:
+### Who Am I ?
+- 👨‍💻: **Full-Stack Developer**
+- 📈: **Game Changer**
+- 👨‍🏫: **Teacher**
+- 👨‍🎓: **Student of Gachon Univ**
+- ☕: **Barista**
+<br/><br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills (learning)
+- 📰: **Front-end**: React.js, bootstrap, SASS
+- ⚙️: **Back-end**: Node.js, Express.js, MySQL, Oracle, MongoDB
+- ☁️: **Cloud**: AWS
+- 🔖: **General Purpose**: JavaScript
+- 🤔: **Others**: Blockchain
