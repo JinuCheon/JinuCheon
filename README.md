@@ -11,9 +11,9 @@
 
 ### Skills (learning)
 - 📰: **Front-end**: React.js, Bootstrap, SASS
-- ⚙️: **Back-end**: Node.js, Express.js, MySQL, Oracle, MongoDB
+- ⚙️: **Back-end**: Spring, Node.js, Express.js, MySQL, Oracle, MongoDB
 - ☁️: **Cloud**: AWS
-- 🔖: **General Purpose**: JavaScript
+- 🔖: **General Purpose**: Java, JavaScript
 - 🤔: **Others**: Blockchain
 
 ### Expreience
