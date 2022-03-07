@@ -2,7 +2,7 @@
 <h1 align="Center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />  It's me, Jinu Cheon <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 
 ### Who Am I ?
-- 👨‍💻: **Full-Stack Developer**
+- 👨‍💻: **Back-End Developer**
 - 📈: **Game Changer**
 - 👨‍🏫: **Teacher**
 - 👨‍🎓: **Student of Gachon Univ**
