@@ -17,7 +17,7 @@
 - 🤔: **Others**: Blockchain
 
 ### Expreience
-- <a href="https://github.com/crappy-univ-life">[이딴게 대학교...? - Crappy Univ Life]</a> Toy project team - Backend development(2022.03 ~ )
+- <a href="https://github.com/crappy-univ-life">[이딴게 대학교...? - Crappy Univ Life]</a> Toy project team - Backend development (2022.03 ~ )
 - DBA – Republic of Korea Army Headquarters (December 2019 ~ June 2021)
 
 ### Education
