@@ -3,21 +3,21 @@
 
 ### Who Am I ?
 - 👨‍💻: **Back-End Developer**
-- 📈: **Game Changer**
-- 👨‍🏫: **Teacher**
+- 👨‍🏫: **Leader**
 - 👨‍🎓: **Student of Gachon Univ**
 - ☕: **Barista**
 <br/><br/>
 
 ### Skills (learning)
-- 📰: **Front-end**: React.js, Bootstrap, SASS
-- ⚙️: **Back-end**: Spring, Node.js, Express.js, MySQL, Oracle, MongoDB
+- ⚙️: **Back-end**: Spring, Node.js, MySQL, Oracle, MongoDB
 - ☁️: **Cloud**: AWS
 - 🔖: **General Purpose**: Java, JavaScript
-- 🤔: **Others**: Blockchain
+- 📰: **Front-end**: React.js, Bootstrap, SASS
+- 🤔: **Others**: Blockchain  
+
 
 ### Expreience
-- <a href="https://github.com/crappy-univ-life">[이딴게 대학교...? - Crappy Univ Life]</a> Toy project team - Backend development (2022.03 ~ )
+- <a href="https://github.com/d-o-p-e">[도프 - 도란도란 모여서 하는 프로젝트]</a> Toy project team - Team leader, Backend developer (2022.03 ~ )
 - DBA of HR system – Republic of Korea Army Headquarters (December 2019 ~ June 2021)
 
 ### Education
