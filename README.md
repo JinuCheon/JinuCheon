@@ -7,7 +7,7 @@
 
 ### Skills (learning)
 - ⚙️: **Back-end**: Spring, Node.js, MySQL, Oracle, MongoDB
-- ☁️: **infra**: AWS, Docker, Jenkins
+- ☁️: **Infra**: AWS, Docker, Jenkins
 - 🔖: **General Purpose**: Java, JavaScript
 - 📰: **Front-end**: React.js, Bootstrap, SASS
 - 🤔: **Others**: Blockchain  
