@@ -1,6 +1,3 @@
-
-<h1 align="Center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />  It's me, Jinu Cheon <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
-
 ### Who Am I ?
 - 👨‍💻: **Back-End Developer**
 - 👨‍🏫: **Leader**
@@ -10,7 +7,7 @@
 
 ### Skills (learning)
 - ⚙️: **Back-end**: Spring, Node.js, MySQL, Oracle, MongoDB
-- ☁️: **Cloud**: AWS
+- ☁️: **infra**: AWS, Docker, Jenkins
 - 🔖: **General Purpose**: Java, JavaScript
 - 📰: **Front-end**: React.js, Bootstrap, SASS
 - 🤔: **Others**: Blockchain  
