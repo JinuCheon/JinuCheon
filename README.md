@@ -1,13 +1,4 @@
-### Who Am I ?
-- 👨‍💻: **Back-End Developer**
-
-### Skills (learning)
-- ⚙️: **Back-end**: Spring, Node.js, MySQL, Oracle, MongoDB
-- ☁️: **Infra**: AWS, Docker, Jenkins
-- 🔖: **General Purpose**: Java, JavaScript
-- 📰: **Front-end**: React.js, Bootstrap, SASS
-- 🤔: **Others**: Blockchain  
-
+👨‍💻 **Back-End Developer**
 
 ### Project and Expreience
 - <a href="https://github.com/Breaking-Dope/breaking-backend">[브레이킹 - 기사 제보 기반 SNS 서비스]</a> (2022.06.20 ~ )
