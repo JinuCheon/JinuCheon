@@ -8,7 +8,13 @@
 - DBA of HR system – Republic of Korea Army Headquarters (December 2019 ~ June 2021)
 
 ### Team
-- <a href="https://github.com/d-o-p-e">[도프 - 도란도란 모여서 하는 프로젝트]</a> Toy project team - Team leader, Backend developer (2022.03 ~ )
+- <a href="https://github.com/d-o-p-e">[도프 - 도란도란 모여서 하는 프로젝트]</a> Organization leader, Backend developer (2022.03 ~ )
+- <a href="https://github.com/Nexters">[넥스터즈 - 개발자와 디자이너를 위한 IT 커뮤니티]</a> Toy Backend developer (2023.01 ~ )
+
+### Study
+- <a href="https://github.com/d-o-p-e/book-RealMySQL"> Real MySQL 8.0 개정판 1권 </a>
+- <a href="https://github.com/d-o-p-e/book-RealMySQL2"> Real MySQL 8.0 개정판 2권 </a>
+- <a href="https://github.com/d-o-p-e/spring-cs-study"> 스프링 개발자 취업/이직 스터디 </a>
 
 ### Education
 - Software, Gachon University, Seongnam, Korea (2019 ~ )
