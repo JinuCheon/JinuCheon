@@ -13,7 +13,7 @@
 
 ### Study
 - <a href="https://github.com/d-o-p-e/book-RealMySQL"> Real MySQL 8.0 개정판 1권 </a>
-- <a href="https://github.com/d-o-p-e/book-RealMySQL2"> Real MySQL 8.0 개정판 2권 </a>
+- <a href="https://github.com/d-o-p-e/book-RealMySQL2"> Real MySQL 8.0 개정판 2권 (예정) </a>
 - <a href="https://github.com/d-o-p-e/spring-cs-study"> 스프링 개발자 취업/이직 스터디 </a>
 
 ### Education
