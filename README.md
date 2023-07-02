@@ -14,9 +14,10 @@
 - <a href="https://github.com/Nexters">[넥스터즈 - 개발자와 디자이너를 위한 IT 커뮤니티]</a> Toy Backend developer (2023.01 ~ )
 
 ### Study
-- <a href="https://github.com/d-o-p-e/book-RealMySQL"> Real MySQL 8.0 개정판 1권 </a>
-- <a href="https://github.com/d-o-p-e/book-RealMySQL-2"> Real MySQL 8.0 개정판 2권 (진행중) </a>
-- <a href="https://github.com/d-o-p-e/spring-cs-study"> 스프링 개발자 취업/이직 스터디 </a>
+- <a href="https://github.com/Nexters/23th-effective-java"> (lead) Effective Java </a>
+- <a href="https://github.com/d-o-p-e/book-RealMySQL-2"> (lead) Real MySQL 8.0 개정판 2권</a>
+- <a href="https://github.com/d-o-p-e/book-RealMySQL"> (lead) Real MySQL 8.0 개정판 1권 </a>
+- <a href="https://github.com/d-o-p-e/spring-cs-study"> (lead) 스프링 개발자 취업/이직 스터디 </a>
 
 ### Education
 - Software, Gachon University, Seongnam, Korea (2019 ~ )
