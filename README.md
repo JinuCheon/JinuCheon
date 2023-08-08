@@ -1,5 +1,8 @@
 👨‍💻 **Back-End Developer**
 
+지나가시는 모든 분과의 다양한 주제의 커피챗을 환영합니다.
+woojin8787@gmail.com
+
 ### Project and Expreience
 - <a href="https://github.com/Nexters/zzanji-server">[SWIP(넥스터즈) - 주간 챌린지 가계부 서비스]</a> (2023.07.01 ~ 진행중)
 - <a href="https://github.com/Nexters/phochak-server">[Phochak(넥스터즈) - 여행 쇼츠 컨텐츠 스트리밍 서비스]</a> (2023.01.07 ~ 운영중)
@@ -7,7 +10,6 @@
 - <a href="https://github.com/d-o-p-e/time-machine-letter">[타임머신편지(도프) - 미래의 누군가를 위한 편지 서비스]</a> (2022.03.12 ~ 2022.04.10)
 - DBA of HR system – Republic of Korea Army Headquarters (2019.12 ~ 2021.06)
 - Blockchain Start-up Intern (2019.6 ~ 2019.12)
-- Lots of startup competition experience
 
 ### Team
 - <a href="https://github.com/d-o-p-e">[도프 - 도란도란 모여서 하는 프로젝트]</a> Organization leader, Backend developer (2022.03 ~ )
