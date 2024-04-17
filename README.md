@@ -1,6 +1,12 @@
+**Failling, Wondering, Bumbling, Doubting, Struggling** to solve problem 🔨 
+
+OOP ? TDD ? Refactoring ? Agile ?
+
+
 ### Expreience
 - [Ktown4u](https://kr.ktown4u.com/) (2024.2 ~)
   - Back-End Developer
+  - WMS / Commerce
 - [STCLab](https://www.stclab.com/) (2023.10 ~ 2024.2)
   - Back-End Developer
   - 트래픽 솔루션 Netfunnel 개발
